@@ -2,7 +2,7 @@ public class JavaTest1
 {
 	public static void main(String[] args) 
 	{
-        int n = 5;
+        int n = 6;
         // outer loop to handle number of rows
         //  n in this case
         for (int i=0; i<n; i++)
